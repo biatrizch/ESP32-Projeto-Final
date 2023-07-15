@@ -1,3 +1,4 @@
 # ESP32-Projeto-Final
 
-TESTE
+Projeto: Interruptor Wi-Fi
+Equipe: Beatriz Chen e Gabriel Dimant
